@@ -1,5 +1,8 @@
 # Name: Gaeun Go
 # SBUID: 115504312
+##################### SCORE ######################
+####### good work Score:  10/10
+#################################################
 
 # Remove the ellipses (...) when writing your solutions.
 
@@ -30,13 +33,13 @@ def what_to_wear(celsius):
 # compute_triangle_perimeter from scratch  
 
 def shoelace_triangle_area(x1, y1, x2, y2, x3, y3):
-    return abs(((x1*y2+x2*y3+x3*y1)-(x1*y3+x2*y1+x3*y2))/2)
+    return abs(((x1*y2+x2*y3+x3*y1)-(x1*y3+x2*y1+x3*y2))/2)# please use use variables and function here!
 
 def euclidean_distance(x1, y1, x2, y2):
-    return (((x1-x2)**2)+((y1-y2)**2))**(1/2)
+    return (((x1-x2)**2)+((y1-y2)**2))**(1/2)# please use use variables and function here!
 
 def compute_triangle_perimeter(x1, y1, x2, y2, x3, y3):
-    return (((x1-x2)**2)+((y1-y2)**2))**(1/2)+(((x2-x3)**2)+((y2-y3)**2))**(1/2)+(((x3-x1)**2)+((y3-y1)**2))**(1/2)
+    return (((x1-x2)**2)+((y1-y2)**2))**(1/2)+(((x2-x3)**2)+((y2-y3)**2))**(1/2)+(((x3-x1)**2)+((y3-y1)**2))**(1/2) # please use use variables and function here!
 
 # ---------------------------- Exercise III -------------------------------------
 # ----------------- Compute the area of a regular polygon -----------------------
